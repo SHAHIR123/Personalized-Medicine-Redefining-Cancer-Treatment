@@ -18,7 +18,7 @@ We need to develop a Machine Learning algorithm that, using this knowledge base 
 
 **Data Description**
 
-Data set can be downloaded from [kaggle.com]("https://www.kaggle.com/c/msk-redefining-cancer-treatment/data")
+Data set can be downloaded from [www.kaggle.com](https://www.kaggle.com/c/msk-redefining-cancer-treatment/data)
 
 There are nine different classes a genetic mutation can be classified on.
 
