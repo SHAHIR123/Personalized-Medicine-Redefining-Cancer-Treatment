@@ -3,6 +3,7 @@
 ## Predict the effect of Genetic Variants to enable Personalized Medicine
 
 This data set retrieved from Kaggle competetition plat form.
+Data set can be downloaded from [www.kaggle.com](https://www.kaggle.com/c/msk-redefining-cancer-treatment/data)
  
 Kaggle ran this competetion with partnership of Memorial Sloan Kettering Cancer Center (MSKCC).
 
