@@ -18,6 +18,8 @@ We need to develop a Machine Learning algorithm that, using this knowledge base 
 
 **Data Description**
 
+Data set can be downloaded from [kaggle.com]("https://www.kaggle.com/c/msk-redefining-cancer-treatment/data")
+
 There are nine different classes a genetic mutation can be classified on.
 
 This is not a trivial task since interpreting clinical evidence is very challenging even for human specialists. Therefore, modeling the clinical evidence (text) will be critical for the success of your approach.
